@@ -1,0 +1,17 @@
+global.current_sfx = 0
+global.current_bgm = 0
+global.achievement1 = false
+global.achievement2 = false
+global.achievement3 = false
+global.achievement4 = false
+global.achievement5 = false
+global.achievement6 = false
+global.achievement7 = false
+global.achievement8 = false
+global.achievement9 = false
+global.achievement10 = false
+global.achievement11 = false
+global.achievement12 = false
+global.achievement13 = false
+global.achievement14 = false
+global.achievement15 = false

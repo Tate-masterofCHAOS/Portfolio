@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureGroup>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">default_0.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">default_1.bz2</texture>
+  <tpe x="2" y="2" tpage="default_0.bz2">achieve_bgmsprite_cc93e50c-f656-41ab-94e6-e247ef60a5fd.tpe</tpe>
+  <tpe x="2" y="2" tpage="default_1.bz2">menu_bg_45968180-6664-4b36-9574-6c79d2e3fd62.tpe</tpe>
+  <tpe x="2" y="1086" tpage="default_0.bz2">menu_options_dee150ae-541c-48e8-98f5-14f2e83531b2.tpe</tpe>
+  <tpe x="512" y="1086" tpage="default_0.bz2">menu_options_003e57da-2fa8-479a-8c86-94d05ffd4d51.tpe</tpe>
+  <tpe x="512" y="1440" tpage="default_0.bz2">menu_options_16cd5831-96b7-4537-95a3-92c341de19ba.tpe</tpe>
+  <tpe x="1009" y="1440" tpage="default_0.bz2">menu_options_db66149f-7946-4ab1-82bf-e84bd39577db.tpe</tpe>
+  <tpe x="1093" y="1086" tpage="default_0.bz2">setting_options_a18aa8a4-1f6c-4fbb-a7c9-7b0e8774ab62.tpe</tpe>
+  <tpe x="1009" y="1794" tpage="default_0.bz2">setting_options_9a536081-110f-4d0f-9ad3-726bd2e660af.tpe</tpe>
+  <tpe x="1353" y="1086" tpage="default_0.bz2">achievement_1_e010d79d-7e8c-4f2b-85b3-c0a3acc1d2a0.tpe</tpe>
+  <tpe x="1426" y="1345" tpage="default_0.bz2">achievement_1_efca56ef-6a4b-46c5-bb88-ea7382d05ee2.tpe</tpe>
+  <tpe x="1353" y="1086" tpage="default_0.bz2">achievement_10_e010d79d-7e8c-4f2b-85b3-c0a3acc1d2a0.tpe</tpe>
+  <tpe x="1426" y="1345" tpage="default_0.bz2">achievement_10_efca56ef-6a4b-46c5-bb88-ea7382d05ee2.tpe</tpe>
+  <tpe x="1353" y="1086" tpage="default_0.bz2">achievement_11_e010d79d-7e8c-4f2b-85b3-c0a3acc1d2a0.tpe</tpe>
+  <tpe x="1426" y="1345" tpage="default_0.bz2">achievement_11_efca56ef-6a4b-46c5-bb88-ea7382d05ee2.tpe</tpe>
+  <tpe x="1353" y="1086" tpage="default_0.bz2">achievement_12_e010d79d-7e8c-4f2b-85b3-c0a3acc1d2a0.tpe</tpe>
+  <tpe x="1426" y="1345" tpage="default_0.bz2">achievement_12_efca56ef-6a4b-46c5-bb88-ea7382d05ee2.tpe</tpe>
+  <tpe x="1353" y="1086" tpage="default_0.bz2">achievement_13_e010d79d-7e8c-4f2b-85b3-c0a3acc1d2a0.tpe</tpe>
+  <tpe x="1426" y="1345" tpage="default_0.bz2">achievement_13_efca56ef-6a4b-46c5-bb88-ea7382d05ee2.tpe</tpe>
+  <tpe x="1353" y="1086" tpage="default_0.bz2">achievement_14_e010d79d-7e8c-4f2b-85b3-c0a3acc1d2a0.tpe</tpe>
+  <tpe x="1426" y="1345" tpage="default_0.bz2">achievement_14_efca56ef-6a4b-46c5-bb88-ea7382d05ee2.tpe</tpe>
+  <tpe x="1353" y="1086" tpage="default_0.bz2">achievement_15_e010d79d-7e8c-4f2b-85b3-c0a3acc1d2a0.tpe</tpe>
+  <tpe x="1426" y="1345" tpage="default_0.bz2">achievement_15_efca56ef-6a4b-46c5-bb88-ea7382d05ee2.tpe</tpe>
+  <tpe x="1353" y="1086" tpage="default_0.bz2">achievement_2_e010d79d-7e8c-4f2b-85b3-c0a3acc1d2a0.tpe</tpe>
+  <tpe x="1426" y="1345" tpage="default_0.bz2">achievement_2_efca56ef-6a4b-46c5-bb88-ea7382d05ee2.tpe</tpe>
+  <tpe x="1353" y="1086" tpage="default_0.bz2">achievement_3_e010d79d-7e8c-4f2b-85b3-c0a3acc1d2a0.tpe</tpe>
+  <tpe x="1426" y="1345" tpage="default_0.bz2">achievement_3_efca56ef-6a4b-46c5-bb88-ea7382d05ee2.tpe</tpe>
+  <tpe x="1353" y="1086" tpage="default_0.bz2">achievement_4_e010d79d-7e8c-4f2b-85b3-c0a3acc1d2a0.tpe</tpe>
+  <tpe x="1426" y="1345" tpage="default_0.bz2">achievement_4_efca56ef-6a4b-46c5-bb88-ea7382d05ee2.tpe</tpe>
+  <tpe x="1353" y="1086" tpage="default_0.bz2">achievement_5_e010d79d-7e8c-4f2b-85b3-c0a3acc1d2a0.tpe</tpe>
+  <tpe x="1426" y="1345" tpage="default_0.bz2">achievement_5_efca56ef-6a4b-46c5-bb88-ea7382d05ee2.tpe</tpe>
+  <tpe x="1353" y="1086" tpage="default_0.bz2">achievement_6_e010d79d-7e8c-4f2b-85b3-c0a3acc1d2a0.tpe</tpe>
+  <tpe x="1426" y="1345" tpage="default_0.bz2">achievement_6_efca56ef-6a4b-46c5-bb88-ea7382d05ee2.tpe</tpe>
+  <tpe x="1353" y="1086" tpage="default_0.bz2">achievement_7_e010d79d-7e8c-4f2b-85b3-c0a3acc1d2a0.tpe</tpe>
+  <tpe x="1426" y="1345" tpage="default_0.bz2">achievement_7_efca56ef-6a4b-46c5-bb88-ea7382d05ee2.tpe</tpe>
+  <tpe x="1353" y="1086" tpage="default_0.bz2">achievement_8_e010d79d-7e8c-4f2b-85b3-c0a3acc1d2a0.tpe</tpe>
+  <tpe x="1426" y="1345" tpage="default_0.bz2">achievement_8_efca56ef-6a4b-46c5-bb88-ea7382d05ee2.tpe</tpe>
+  <tpe x="1353" y="1086" tpage="default_0.bz2">achievement_9_e010d79d-7e8c-4f2b-85b3-c0a3acc1d2a0.tpe</tpe>
+  <tpe x="1426" y="1345" tpage="default_0.bz2">achievement_9_efca56ef-6a4b-46c5-bb88-ea7382d05ee2.tpe</tpe>
+  <tpe x="1426" y="1604" tpage="default_0.bz2">setting_options_ec302d35-69b6-4123-b0bb-4d1c2b74939b.tpe</tpe>
+  <tpe x="1245" y="1841" tpage="default_0.bz2">Menu_font_Menu_font.tpe</tpe>
+  <tpe x="1093" y="1345" tpage="default_0.bz2">BGM_options_fec5af3e-34d1-4986-a5be-aff39f5c8d6f.tpe</tpe>
+  <tpe x="1245" y="1973" tpage="default_0.bz2">SFX_options_c65f2dc3-5c70-443f-9f41-0933277271a9.tpe</tpe>
+  <tpe x="1093" y="1391" tpage="default_0.bz2">BGM_options_a92c1138-3fb4-497c-8eb7-2bce5414cbfd.tpe</tpe>
+  <tpe x="1635" y="1086" tpage="default_0.bz2">SFX_options_f404a6d6-d57d-4026-afd2-794b4447831a.tpe</tpe>
+  <tpe x="1635" y="1132" tpage="default_0.bz2">BGM_options_9ff03ba6-4814-464d-91ee-d87922e70db6.tpe</tpe>
+  <tpe x="1635" y="1178" tpage="default_0.bz2">SFX_options_50563b17-4c67-4e74-a297-4d7c539409a7.tpe</tpe>
+  <tpe x="1635" y="1224" tpage="default_0.bz2">BGM_options_b7e663ee-6daa-4a99-b877-c832f59c1d19.tpe</tpe>
+  <tpe x="1635" y="1259" tpage="default_0.bz2">SFX_options_a5898d7c-376b-4e47-9095-5ff30193f1dc.tpe</tpe>
+</TextureGroup>
