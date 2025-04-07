@@ -51,4 +51,3 @@ def main():
         else:
             print("Invalid choice, please choose from the available options.")
 
-main()

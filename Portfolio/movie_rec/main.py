@@ -63,4 +63,3 @@ def main():
         if require == "3":
             break
 
-main()

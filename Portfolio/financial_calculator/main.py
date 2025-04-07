@@ -89,4 +89,3 @@ def main():
     else:
         print("Sorry thats not a function please check your spelling or try something else")
     pass
-main()
