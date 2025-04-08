@@ -32,4 +32,4 @@ Silas Taylor: He is the other person working on the indie game and made the back
 ## Author's Informtation
 ___
 Tate K. Morgan: Tate is an aspiring coder with a love for code and the paranormal. He loves undertale and is in the middle of making many different fangames for it. 
-email: tate.morgan@ucas-edu.net  
+Contact: tate.morgan@ucas-edu.net  
