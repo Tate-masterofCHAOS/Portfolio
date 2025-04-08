@@ -6,7 +6,7 @@ This project is a compilation of six projects I am proud of including a budget a
 
 ## Installation
 ___
-You will need to download GAMEMAKER on your computer to run the main menu of Celestial Ruins you can do this by downloading the installer from their website with this link https://gamemaker.io/en/download and clicking the installer for windows, you can also try to run the stitch extention and click yes when it asks if you would like to have it install gamemaker for you if 
+You will need to download GAMEMAKER on your computer to run the main menu of Celestial Ruins you can do this by downloading the installer from their website with this link https://gamemaker.io/en/download and clicking the installer for windows, you can also try to run the stitch extention and click yes when it asks if you would like to have it install gamemaker for you
 
 ## Exectuion And Usage
 ___
