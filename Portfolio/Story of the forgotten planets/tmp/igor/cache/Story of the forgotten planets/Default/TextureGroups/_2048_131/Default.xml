@@ -2,8 +2,14 @@
 <TextureGroup>
   <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">default_0.bz2</texture>
   <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">default_1.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">default_2.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">default_3.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">default_4.bz2</texture>
   <tpe x="2" y="2" tpage="default_0.bz2">achieve_bgmsprite_cc93e50c-f656-41ab-94e6-e247ef60a5fd.tpe</tpe>
   <tpe x="2" y="2" tpage="default_1.bz2">menu_bg_45968180-6664-4b36-9574-6c79d2e3fd62.tpe</tpe>
+  <tpe x="2" y="2" tpage="default_2.bz2">Save_files_spr_23792c9a-e84d-47cd-8e63-d0ea66cfb2f4.tpe</tpe>
+  <tpe x="2" y="2" tpage="default_3.bz2">Save_files_spr_58d50c58-a146-440c-9b12-cdd96dcd0d80.tpe</tpe>
+  <tpe x="2" y="2" tpage="default_4.bz2">Save_files_spr_9a284813-3fb8-4e57-8eb9-731a33037a73.tpe</tpe>
   <tpe x="2" y="1086" tpage="default_0.bz2">menu_options_dee150ae-541c-48e8-98f5-14f2e83531b2.tpe</tpe>
   <tpe x="512" y="1086" tpage="default_0.bz2">menu_options_003e57da-2fa8-479a-8c86-94d05ffd4d51.tpe</tpe>
   <tpe x="512" y="1440" tpage="default_0.bz2">menu_options_16cd5831-96b7-4537-95a3-92c341de19ba.tpe</tpe>
@@ -41,13 +47,21 @@
   <tpe x="1353" y="1086" tpage="default_0.bz2">achievement_9_e010d79d-7e8c-4f2b-85b3-c0a3acc1d2a0.tpe</tpe>
   <tpe x="1426" y="1345" tpage="default_0.bz2">achievement_9_efca56ef-6a4b-46c5-bb88-ea7382d05ee2.tpe</tpe>
   <tpe x="1426" y="1604" tpage="default_0.bz2">setting_options_ec302d35-69b6-4123-b0bb-4d1c2b74939b.tpe</tpe>
-  <tpe x="1245" y="1841" tpage="default_0.bz2">Menu_font_Menu_font.tpe</tpe>
-  <tpe x="1093" y="1345" tpage="default_0.bz2">BGM_options_fec5af3e-34d1-4986-a5be-aff39f5c8d6f.tpe</tpe>
-  <tpe x="1245" y="1973" tpage="default_0.bz2">SFX_options_c65f2dc3-5c70-443f-9f41-0933277271a9.tpe</tpe>
-  <tpe x="1093" y="1391" tpage="default_0.bz2">BGM_options_a92c1138-3fb4-497c-8eb7-2bce5414cbfd.tpe</tpe>
-  <tpe x="1635" y="1086" tpage="default_0.bz2">SFX_options_f404a6d6-d57d-4026-afd2-794b4447831a.tpe</tpe>
-  <tpe x="1635" y="1132" tpage="default_0.bz2">BGM_options_9ff03ba6-4814-464d-91ee-d87922e70db6.tpe</tpe>
-  <tpe x="1635" y="1178" tpage="default_0.bz2">SFX_options_50563b17-4c67-4e74-a297-4d7c539409a7.tpe</tpe>
-  <tpe x="1635" y="1224" tpage="default_0.bz2">BGM_options_b7e663ee-6daa-4a99-b877-c832f59c1d19.tpe</tpe>
-  <tpe x="1635" y="1259" tpage="default_0.bz2">SFX_options_a5898d7c-376b-4e47-9095-5ff30193f1dc.tpe</tpe>
+  <tpe x="1245" y="1841" tpage="default_0.bz2">Key_Items_e8206d04-e210-4d32-95de-c890d8295eef.tpe</tpe>
+  <tpe x="1245" y="1907" tpage="default_0.bz2">Menu_font_Menu_font.tpe</tpe>
+  <tpe x="1505" y="1907" tpage="default_0.bz2">Controls_9c08a512-eccc-445e-bf88-b58006e619ce.tpe</tpe>
+  <tpe x="1635" y="1086" tpage="default_0.bz2">Text_speed_b0031a36-ce84-440f-bb77-f90dade005c6.tpe</tpe>
+  <tpe x="1635" y="1132" tpage="default_0.bz2">Text_skip_setting_ff19e328-bbb2-47e6-be02-7da6a16a8a01.tpe</tpe>
+  <tpe x="1635" y="1178" tpage="default_0.bz2">Text_skip_setting_03a391be-1b8b-4c2d-ba07-2bcde451ae8e.tpe</tpe>
+  <tpe x="1635" y="1224" tpage="default_0.bz2">BGM_options_fec5af3e-34d1-4986-a5be-aff39f5c8d6f.tpe</tpe>
+  <tpe x="1635" y="1270" tpage="default_0.bz2">SFX_options_c65f2dc3-5c70-443f-9f41-0933277271a9.tpe</tpe>
+  <tpe x="1635" y="1316" tpage="default_0.bz2">Text_speed_e207be34-5d0f-491d-987f-5930acb2d3ad.tpe</tpe>
+  <tpe x="512" y="1797" tpage="default_0.bz2">BGM_options_a92c1138-3fb4-497c-8eb7-2bce5414cbfd.tpe</tpe>
+  <tpe x="512" y="1843" tpage="default_0.bz2">SFX_options_f404a6d6-d57d-4026-afd2-794b4447831a.tpe</tpe>
+  <tpe x="2" y="1862" tpage="default_0.bz2">BGM_options_9ff03ba6-4814-464d-91ee-d87922e70db6.tpe</tpe>
+  <tpe x="256" y="1862" tpage="default_0.bz2">SFX_options_50563b17-4c67-4e74-a297-4d7c539409a7.tpe</tpe>
+  <tpe x="775" y="1797" tpage="default_0.bz2">Text_skip_setting_b16629eb-42e1-4a26-b437-d9c56cbe29b1.tpe</tpe>
+  <tpe x="768" y="1843" tpage="default_0.bz2">Text_speed_f3bad7d6-cd6f-4943-b48c-9ba6909c5c79.tpe</tpe>
+  <tpe x="2" y="1908" tpage="default_0.bz2">BGM_options_b7e663ee-6daa-4a99-b877-c832f59c1d19.tpe</tpe>
+  <tpe x="504" y="1889" tpage="default_0.bz2">SFX_options_a5898d7c-376b-4e47-9095-5ff30193f1dc.tpe</tpe>
 </TextureGroup>
