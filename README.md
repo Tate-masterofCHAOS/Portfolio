@@ -23,11 +23,11 @@ ___
 + Update-able anime library
 
 ## Contributions
-Silas Taylor: He is the other person working on the indie game and made the backgrounds
+Silas Taylor: He made the backgrounds for Celestial Ruins
 
 ## Contributors
 ___
-Silas Taylor: He is the other person working on the indie game and made the backgrounds for it
+Silas Taylor: He is the other person working on the indie game and made the backgrounds for it as well as all concept art we currently have
 
 ## Author's Informtation
 ___
