@@ -5,11 +5,11 @@ import csv
 #This function uses the variables in order to print specific movies
 def print_require(length, director, genre, title):
     
-    file = open("movie_rec\Movies list.csv","r").read()
+    file = open("Portfolio/movie_rec/Movies list.csv","r").read()
 
     movies = {}
     #This is what reads your requirements and prints them
-    with open("movie_rec\Movies list.csv") as file:
+    with open("Portfolio/movie_rec/Movies list.csv") as file:
         reader = csv.reader(file)
         next(reader)
         for i in reader:
@@ -49,11 +49,11 @@ def main():
             
         #This Prints all things
         if require == "2":
-            file = open("movie_rec\Movies list.csv","r").read()
+            file = open("Portfolio/movie_rec/Movies list.csv","r").read()
 
             movies = {}
 
-            with open("movie_rec\Movies list.csv") as file:
+            with open("Portfolio/movie_rec/Movies list.csv") as file:
                 reader = csv.reader(file)
                 next(reader)
                 for i in reader:

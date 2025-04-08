@@ -1,9 +1,9 @@
 #Tate Morgan Personal Portfolio
-from financial_calculator import main as finance
-from movie_rec import main as movie
-from Password_gen import main as password
-from trans_morse_code import main as morse
-from Update_Library import main as libarby
+from financial_calculator.main import main as finance
+from movie_rec.main import main as movie
+from Password_gen.main import main as password
+from trans_morse_code.main import main as morse
+from Update_Library.main import main as libarby
 
 
 

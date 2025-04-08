@@ -19,7 +19,7 @@ ___
 ## Current Features
 ___
 + Working achievement menu
-+ Can calculate tax
++ Can calculate tax via financial calculator
 + Updateable anime library
 
 ## Contributions
@@ -27,7 +27,7 @@ Silas Taylor: He is the other person working on the indie game and made the back
 
 ## Contributors
 ___
-Silas Taylor: He is the other person working on the indie game and made the backgrounds as well as the text
+Silas Taylor: He is the other person working on the indie game and made the backgrounds for it
 
 ## Author's Informtation
 ___

@@ -47,5 +47,3 @@ def main():
             break
         else:
             print("I am sorry that is not a function please double check your spelling")
-
-
