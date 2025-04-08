@@ -2,7 +2,7 @@
 
 ## Project Description
 ___
-This project is a compilation of six projects I am proud of including a fincance calculator, a movie reccomender, a password generator, a morse code translater, an anime library, and an amazing main menu for an indie game im working on known as Celestial Ruins
+This project is a compilation of six projects I am proud of including a budget allocator/tax calculator, a movie reccomender, a password generator, a morse code translater, an anime library, and an amazing main menu for an indie game im working on known as Celestial Ruins
 
 ## Installation
 ___
@@ -10,11 +10,11 @@ You will need to download GAMEMAKER on your computer to run the main menu of Cel
 
 ## Exectuion And Usage
 ___
-You will choose options of all the projects and then use the individual things when ran it will be in the terminal as will all of the projects besides the main menu which when ran as instructions say will pop up a small window
+You will choose options of all the projects and then use the individual things when ran it will be in the terminal as will all of the projects besides the main menu which when ran as instructions say will pop up in a small window
 
 ## Used Technologies
 ___
-+ Stitch extension  
++ Stitch extension by Butterscotch Shenanigans
  
 ## Current Features
 ___
